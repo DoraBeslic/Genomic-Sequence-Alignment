@@ -5,6 +5,7 @@
 
 bamOutPath="results/bam/"
 suffix=".bam"
+
 for inFile in $bamOutPath*$suffix
 do
     # Remove the path from the filename and assign to pathRemoved
@@ -12,5 +13,7 @@ do
     # Remove the suffix from $pathRemoved and assign to sampleName
     sampleName="${pathRemoved/$suffix/}"
 
-    samtools index $bamOutPath$sampleName$suffix
-    1>$bamOutPath$sampleName.bai
+    samtools index \
+    $bamOutPath$sampleName$suffix \
+    -b results/bai/$sampleName.bai ;
+done
