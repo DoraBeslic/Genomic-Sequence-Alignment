@@ -13,12 +13,11 @@ function alignReads {
         pathRemoved="${leftInFile/$pairedOutPath/}"
         # Remove the left-read suffix from $pathRemoved and assign to sampleName
         sampleName="${pathRemoved/$leftSuffix/}" 
-	
         gsnap \
         -A sam \
         -D data \
         -d AiptasiaGmapDb \
-        -N 1 \	
+        -N 1 \
         $pairedOutPath$sampleName$leftSuffix \
 	$pairedOutPath$sampleName$rightSuffix \
         1>results/sam/$sampleName.sam
