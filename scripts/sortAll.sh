@@ -14,5 +14,5 @@ do
 
     samtools sort \
     $samOutPath$sampleName$suffix \
-    -o results/bam/$sampleName.bam \
+    -o results/bam/$sampleName.bam ;
 done
