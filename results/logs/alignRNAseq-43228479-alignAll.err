@@ -1,0 +1,550 @@
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip02.R1.fastq data/trimmed/paired/Aip02.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.12 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.10 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.18 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.33 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.25 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.45 sec)
+Starting alignment
+Processed 31478 queries in 37.43 seconds (840.98 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip05.R1.fastq data/trimmed/paired/Aip05.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.36 sec)
+Starting alignment
+Processed 34475 queries in 37.73 seconds (913.73 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip06.R1.fastq data/trimmed/paired/Aip06.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.14 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 39995 queries in 68.72 seconds (582.00 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip12.R1.fastq data/trimmed/paired/Aip12.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.16 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 40011 queries in 54.98 seconds (727.74 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip13.R1.fastq data/trimmed/paired/Aip13.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 59779 queries in 74.31 seconds (804.45 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip14.R1.fastq data/trimmed/paired/Aip14.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 36390 queries in 50.86 seconds (715.49 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip15.R1.fastq data/trimmed/paired/Aip15.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 44036 queries in 61.53 seconds (715.68 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip17.R1.fastq data/trimmed/paired/Aip17.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.08 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 38810 queries in 52.33 seconds (741.64 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip18.R1.fastq data/trimmed/paired/Aip18.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 41221 queries in 71.33 seconds (577.89 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip19.R1.fastq data/trimmed/paired/Aip19.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 39185 queries in 56.13 seconds (698.11 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip20.R1.fastq data/trimmed/paired/Aip20.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.07 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 42234 queries in 74.59 seconds (566.22 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip21.R1.fastq data/trimmed/paired/Aip21.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.08 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 55596 queries in 78.79 seconds (705.62 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip23.R1.fastq data/trimmed/paired/Aip23.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 44985 queries in 69.23 seconds (649.79 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip24.R1.fastq data/trimmed/paired/Aip24.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.08 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 33642 queries in 47.36 seconds (710.35 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip25.R1.fastq data/trimmed/paired/Aip25.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 46138 queries in 61.58 seconds (749.24 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip26.R1.fastq data/trimmed/paired/Aip26.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.07 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 33184 queries in 42.41 seconds (782.46 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip28.R1.fastq data/trimmed/paired/Aip28.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.07 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 29921 queries in 55.49 seconds (539.21 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip29.R1.fastq data/trimmed/paired/Aip29.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.07 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 49342 queries in 49.12 seconds (1004.52 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip30.R1.fastq data/trimmed/paired/Aip30.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.07 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 43250 queries in 63.01 seconds (686.40 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip32.R1.fastq data/trimmed/paired/Aip32.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 37934 queries in 47.09 seconds (805.56 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip33.R1.fastq data/trimmed/paired/Aip33.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.07 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 51796 queries in 64.83 seconds (798.95 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip34.R1.fastq data/trimmed/paired/Aip34.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 33574 queries in 46.30 seconds (725.14 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip35.R1.fastq data/trimmed/paired/Aip35.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.09 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.33 sec)
+Starting alignment
+Processed 50595 queries in 61.72 seconds (819.75 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Aip36.R1.fastq data/trimmed/paired/Aip36.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.17 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 40261 queries in 64.66 seconds (622.66 queries/sec)
+GSNAP version 2021-12-17 called with args: gsnap.avx2 -A sam -D data -d AiptasiaGmapDb -N 1 data/trimmed/paired/Unk.R1.fastq data/trimmed/paired/Unk.R2.fastq
+Novel splicing (-N) turned on => assume reads are RNA-Seq
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler assumptions for SSE4.2 options: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Allocating memory for compressed genome (oligos)...done (96,049,628 bytes, 0.06 sec)
+Allocating memory for compressed genome (bits)...done (96,049,632 bytes, 0.06 sec)
+Looking for genome AiptasiaGmapDb in directory data/AiptasiaGmapDb
+Looking for index files in directory data/AiptasiaGmapDb
+  Pointers file is AiptasiaGmapDb.ref153offsets64meta
+  Offsets file is AiptasiaGmapDb.ref153offsets64strm
+  Positions file is AiptasiaGmapDb.ref153positions
+Offsets compression type: bitpack64
+Allocating memory for ref offset pointers, kmer 15, interval 3...done (134,217,744 bytes, 0.08 sec)
+Allocating memory for ref offsets, kmer 15, interval 3...done (229,930,016 bytes, 0.15 sec)
+Allocating memory for ref positions, kmer 15, interval 3...done (269,500,660 bytes, 0.18 sec)
+Looking for region files in directory data/AiptasiaGmapDb
+  Regiondb file is AiptasiaGmapDb.ref061regiondb
+Allocating memory for ref regiondb, kmer 6, interval 1...done (544,382,976 bytes, 0.34 sec)
+Starting alignment
+Processed 26590 queries in 217.07 seconds (122.50 queries/sec)

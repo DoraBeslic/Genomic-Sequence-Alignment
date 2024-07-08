@@ -1,0 +1,9 @@
+-k flag not specified, so building main hash table with default 15-mers
+-j flag not specified, so building regional hash tables with default 6-mers
+Writing files under data
+Not sorting chromosomes.  To sort chromosomes other ways, use the -s flag.
+Warning: Genome FASTA files were given, so we are over-writing the index files at data/AiptasiaGmapDb
+Creating files in directory data/AiptasiaGmapDb
+Running "/shared/centos7/gsnap/2021-12-17/bin/fa_coords"        -o "data/AiptasiaGmapDb.coords" -f "data/AiptasiaGmapDb.sources"
+Can't open file /work/courses/BINF6308/AiptasiaMiSeq/GCA_001417965.1_Aiptasia_genome_1.1_genomic.fna at /shared/centos7/gsnap/2021-12-17/bin/fa_coords line 265.
+"/shared/centos7/gsnap/2021-12-17/bin/fa_coords"        -o "data/AiptasiaGmapDb.coords" -f "data/AiptasiaGmapDb.sources" failed with return code 512 at /shared/centos7/gsnap/2021-12-17/bin/gmap_build line 533.
